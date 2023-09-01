@@ -1,4 +1,4 @@
 # landing-page
 
 ## About
-web-page Template Designed for "the odin projet"
+web-page Template Designed for "the odin project"
